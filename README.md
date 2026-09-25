@@ -1,4 +1,4 @@
-# bench_litert.py — LiteRT-LM Gemma benchmark for Raspberry Pi
+# LiteRT-LM Gemma benchmark for Raspberry Pi
 
 Benchmarks a [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) model (e.g. Gemma-4 E2B)
 running on the CPU of a Raspberry Pi, and records what the board is doing while it runs:
